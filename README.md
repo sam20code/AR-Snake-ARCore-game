@@ -1,0 +1,2 @@
+# AR-Snake-ARCore-game
+# AR-Snake-ARCore-game This is another AR project which is just one of the showcase of AR in the gaming field. This project includes plane detection along with object placement based on user finger touch. Its a snake game in which we will setup the grid(plane detection) first, then at the touch of a finger scorecard will be displayed which is adjustable. Snake will chase the food detecting your motion after each object.  Please use the link provided to experience this AR game :: https://drive.google.com/open?id=1cTH5h54q17E0QN9XTgQ5CP-gULniDUNF
